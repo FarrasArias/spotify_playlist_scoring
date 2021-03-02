@@ -5,7 +5,7 @@ A simple python app to extract playlist information from Spotify to score the im
 
 - Please make sure to install al the dependencies in the requirements.txt file.
 - Run the run.py code to start the app.
-- The code is currently fixed to run every 12 hours, provided the run.py code keeps running in a server.
+- The code is currently set to run every 12 hours, provided the run.py code keeps running on a server.
 
 ## Overview
 
