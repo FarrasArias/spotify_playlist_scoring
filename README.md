@@ -22,3 +22,5 @@ The app outputs a .json storing all the relevant info extracted and parsed from 
 Also, it outputs a .csv with the ordered list of playlists according to their scoring.
 
 Both of these outputs happen every 12 hours for the time being. This should potentially be linked to a database to be stored there.
+
+Two sample output files have been placed on the data folder for reference purposes.
