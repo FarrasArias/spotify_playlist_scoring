@@ -15,4 +15,3 @@ The scoring_playlists.py file contains the methods to compare the Caviar playlis
 
 The score calculation is simple. If the promotional playlist posted a song 3 days before it appeared on Caviar, then a number 3 will be added to the playlist score. This calculation is made this way to give more weight to the playlist who have had the song for longer periods of time. If a playlist uploaded a song less than a day away from Caviar, it probably didn't contribute to the popularity of the song.
 
-The
